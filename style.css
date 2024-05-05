@@ -25,6 +25,8 @@ li{
     position: absolute;
     width: 100%;
     overflow: hidden;
+    pointer-events: none;
+
 }
 .scroller_inner{
     flex-wrap: nowrap;

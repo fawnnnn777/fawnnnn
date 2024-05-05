@@ -119,11 +119,14 @@ li{
     }
 
     .pictures{
-
         padding-top: 20%;
     }
 
     .menu{
         background-color: black;
+    }
+
+    .scroller_inner{
+        animation: animate 10s linear infinite;
     }
 }
